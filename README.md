@@ -1,19 +1,19 @@
 <a href="https://ibb.co/BZgsj9W"><img src="https://i.ibb.co/QN6mn4S/Long-Pic-Laguna-Beach.jpg" alt="Long-Pic-Laguna-Beach" border="0"></a><br /><a target='_blank' href='https://emoticoncentral.com/category/respectful'>
+  
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=charismageorge.charismageorge)
 <a href="https://discord.gg/XTW52Kt">
   
 ### I'm George Zhong. Welcome to my Github Page!
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+  
+## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 * **Full-stack** software developer
 
 * Currently enrolled **Master's Degree** in **Computer Science** student @ the **University of Southern California** - **Class of 2022**
   
-* **Test Automation Intern** @ [**Addepar, Inc.**](https://www.linkedin.com/company/addepar/)
+* **Test Automation Intern** @ **Addepar, Inc.**
   
 * Awarded a **Bachelor's Degree** in **Computer Science** and another **Bachelor's Degree** in **Mathematics** by the **University of California, Irvine** in 2020
-
-* Resume: [George Zhong Resume](https://drive.google.com/file/d/17rMDkWwyoPbQpJtVUsXpHrRULa9VZiEH/view?usp=sharing)(Google Drive View)
 
 * Pronouns: He/Him/His
 
@@ -71,6 +71,7 @@
  * Love cooking & road trip!
   
  ## 📫 How to Reach Me
+ * Resume: [George Zhong Resume](https://drive.google.com/file/d/17rMDkWwyoPbQpJtVUsXpHrRULa9VZiEH/view?usp=sharing)(Google Drive View)
  <p align="center">
 <br/>
 <a href="https://twitter.com/georgezhong11">
