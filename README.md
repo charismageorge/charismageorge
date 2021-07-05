@@ -5,19 +5,21 @@
   
 ### I'm George Zhong. Welcome to my Github Page!
   
-## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+### 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 * **Full-stack** software developer
-
-* Currently enrolled **Master's Degree** in **Computer Science** student @ the **University of Southern California** - **Class of 2022**
   
-* **Test Automation Intern** @ **Addepar, Inc.**
+*  Current **Test Automation Summer 2021 Intern** @ **Addepar, Inc.**
+
+*  Previous **Software Development Engineer Intern** @ **Vusar AR Technology**
+
+*  Current enrolled **Master's Student in Computer Science** @ **the University of Southern California** - **Class of 2022**
   
-* Awarded a **Bachelor's Degree** in **Computer Science** and another **Bachelor's Degree** in **Mathematics** by the **University of California, Irvine** in 2020
+*  Awarded a **Bachelor's Degree** in **Computer Science** and another **Bachelor's Degree** in **Mathematics** by the **University of California, Irvine** in 2020
 
-* Pronouns: He/Him/His
+*  Pronouns: He/Him/His
 
-## 💻 Operating System & Tools
+### 💻 Operating System & Tools
 [![MacOS](https://img.shields.io/badge/MacOS-BigSur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![Windows](https://img.shields.io/badge/Microsoft-Windows10-292e33?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/get-windows-10)
  
@@ -29,50 +31,50 @@
 [![Postman](https://img.shields.io/badge/Postman-orange?style=flat-square&logo=postman&logoColor=ffffff)](https://www.postman.com/)
 [![Swagger](https://img.shields.io/badge/Swagger-brightgreen?style=flat-square&logo=swagger&logoColor=ffffff)](https://swagger.io/)
 
-## 👨‍💻 Technology Stack
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+### 👨‍💻 Technology Stack
+**Coding Languages**: [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/en/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![C++](https://img.shields.io/badge/-C++-informational?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://www.cplusplus.com/)
 
-[![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
+**Backend Frameworks**: [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
+**Databases**: [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org/)
 [![Firebase](https://img.shields.io/badge/-Firebase-red?style=flat-square&logo=Firebase&logoColor=ffffff)](https://firebase.google.com/)
 [![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
 
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+**Workflow Tech**: [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![Jira](https://img.shields.io/badge/-Jira-%23007ACC?style=flat-square&logo=Jira&logoColor=ffffff)](https://www.atlassian.com/software/jira)
 [![Confluence](https://img.shields.io/badge/-Confluence-informational?style=flat-square&logo=Confluence&logoColor=ffffff)](https://www.atlassian.com/software/confluence)
 [![Trello](https://img.shields.io/badge/-Trello-%23007ACC?style=flat-square&logo=Trello&logoColor=ffffff)](https://trello.com/en-US)
 [![Figma](https://img.shields.io/badge/-Figma-critical?style=flat-square&logo=Figma&logoColor=ffffff)](https://www.figma.com/)
 [![Slack](https://img.shields.io/badge/-Slack-blueviolet?style=flat-square&logo=Slack&logoColor=ffffff)](https://slack.com/)
   
-## 🌱 Currently Learning
- * Ember.js
+### 🌱 Currently Learning
+ *  Ember.js
  
- * Percy.io
+ *  Percy.io
  
- * Agile for Teams Workshop
+ *  Agile for Teams Workshop
  
- * Long-term investing in stocks
+ *  Long-term investing in stocks
   
-## ⚡ Fun fact
- * Qualified Commercial Bus Driver (w/ Class B driver's license)
+### ⚡ Fun fact
+ *  Qualified Commercial Bus Driver (w/ Class B driver's license)
  
- * Next jigsaw puzzles goal: more than 1500+ pieces
+ *  Next jigsaw puzzles goal: more than 1500+ pieces
  
- * Still playing Blizzard's Overwatch
+ *  Still playing Blizzard's Overwatch
  
- * Love cooking & road trip!
+ *  Love cooking & road trip!
   
- ## 📫 How to Reach Me
- * Resume: [George Zhong Resume](https://drive.google.com/file/d/17rMDkWwyoPbQpJtVUsXpHrRULa9VZiEH/view?usp=sharing)(Google Drive View)
- <p align="center">
+ ### 📫 How to Reach Me
+ *  Resume: [George Zhong Resume](https://drive.google.com/file/d/17rMDkWwyoPbQpJtVUsXpHrRULa9VZiEH/view?usp=sharing)(Google Drive View)
+ <p>
 <br/>
 <a href="https://twitter.com/georgezhong11">
   <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
