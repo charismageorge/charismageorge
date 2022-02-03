@@ -79,7 +79,7 @@
  <p>
 <br/>
 <a href="https://twitter.com/georgezhong11">
-  <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img alt="Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://www.linkedin.com/in/georgezhong0213">
   <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
