@@ -9,8 +9,10 @@
 
 * **Full-stack** software developer
   
-*  Current **Test Automation Summer 2021 Intern** @ **Addepar, Inc.**
+*  Current **Part-time Project Employee on Software Development** @ **Addepar, Inc.**
 
+*  Previous **Test Automation and Tooling Summer 2021 Intern** @ **Addepar, Inc.**
+  
 *  Previous **Software Development Engineer Intern** @ **Vusar AR Technology**
 
 *  Current enrolled **Master's Student in Computer Science** @ **the University of Southern California** - **Class of 2022**
